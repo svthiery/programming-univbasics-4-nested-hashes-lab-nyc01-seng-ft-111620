@@ -105,7 +105,7 @@ def changing_alan
       }
     }
   alans_new_info = "Cooking"
-  programmer_hash[:known_for] = alans_new_info
+  programmer_hash[:alan_kay][:known_for] = alans_new_info
   programmer_hash
 end
 
